@@ -2,9 +2,9 @@
 
 My name is Bruno, I'm a Software Engineer,
 
-- 🔭 I’m currently working at Combodo
+- 🔭 I’m currently working at Theia
 - 🌱 creating a SaaS offer 
-- 🐘 in PHP (symfony/iTop)
+- 🐘 in PHP/Symfony
 - 👯 I love pair programming
 - 💬 We can talk craftsmanship any day
 
