@@ -2,9 +2,9 @@
 
 My name is Bruno, I'm a Software Engineer,
 
-- 🔭 I’m currently working at Theia
+- 🔭 I’m currently working at Odaseva
 - 🌱 creating a SaaS offer 
-- 🐘 in PHP/Symfony
+- 🐘 in PHP
 - 👯 I love pair programming
 - 💬 We can talk craftsmanship any day
 
