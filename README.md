@@ -7,6 +7,7 @@ My name is Bruno, I'm a Software Engineer,
 - 🐘 in PHP
 - 👯 I love pair programming
 - 💬 We can talk craftsmanship any day
+- [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page) but I no more use GitHub 
 
 
 
